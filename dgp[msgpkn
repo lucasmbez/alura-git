@@ -1,0 +1,29 @@
+[33mcommit 8b6d7e2992333d40bb0bd505e1e719376c51c296[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lucasmbez <lucasmbez@gmail.com>
+Date:   Mon Jun 22 14:36:49 2020 -0300
+
+     corrigindo nome do curso de docker
+
+[33mcommit 88979496ea76baf78f07fe69ad930a0a71a3ef7b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m, [m[1;32mtitulo[m[33m)[m
+Author: unknown <lucasmbez@gmail.com>
+Date:   Mon Jun 22 11:37:08 2020 -0300
+
+    Renomeando o curso de integração contínua
+
+[33mcommit ccf59cde94dda57c3d9f36915841c65a0bf3b847[m
+Author: Lucasmbez <lucasmbez@gmail.com>
+Date:   Mon Jun 22 10:28:21 2020 -0300
+
+    Adicionando .gitignore
+
+[33mcommit b2c9e87aed09ff4c50007d5d89c7616fdf3717ff[m
+Author: unknown <lucasmbez@gmail.com>
+Date:   Mon Jun 22 00:42:55 2020 -0300
+
+    Frase mudada para idioma inglês
+
+[33mcommit 390b3f2dae6c42d06b9b44f97646b2abe53dbf38[m
+Author: unknown <lucasmbez@gmail.com>
+Date:   Mon Jun 22 00:33:10 2020 -0300
+
+    Criando arquivo index.html com lista de cursos
